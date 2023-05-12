@@ -1,0 +1,41 @@
+EXAM QUESTIONS
+
+****Bash Commands****Test
+
+-nano -touch - rmdir -rm - clear
+
+clears the terminal
+remove directory
+remove
+touch (creates a new file)
+nano (edit the file's contents)
+
+*******Data Types*****
+int 4 bytes Whole #'s
+float 4 bytes 7 decimal digit
+
+double 8 bytes 15 decimal digit
+
+boolean 1 byte true/false
+char 1 byte single letter
+
+*****Reads****
+From the top to bottom, left to right
+
+***bool b = "true"; WRONG
+DOES NOT WORK/ IT IS A STRING " "
+
+// Unsigned numbers have double the range - true
+They can be positive and negative
+ 0 - 7 = 8 numbers 
+ 0 - 3 = 4 numbers
+
+*******Selection
+// Selection
+
+
+// if part r | 1
+// else if part 0 | 0 or more
+// else part 0 | 0 or 1
+
+****Bad Weather IF-eLSE Statements

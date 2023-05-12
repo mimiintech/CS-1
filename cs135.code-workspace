@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/SP23 AS7"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.module": "php",
+			"ostream": "cpp",
+			"iomanip": "cpp",
+			"cmath": "cpp",
+			"istream": "cpp",
+			"ios": "cpp",
+			"iostream": "cpp",
+			"__string": "cpp",
+			"fstream": "cpp",
+			"__bit_reference": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"unordered_map": "cpp",
+			"ratio": "cpp",
+			"iosfwd": "cpp",
+			"deque": "cpp",
+			"functional": "cpp",
+			"string": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
